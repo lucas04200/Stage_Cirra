@@ -6,7 +6,7 @@
 
 ## Informations_Générales
 ***
-RPG en ligne de commande (Python)
+Stage chez Cirra + 
 ## Objectifs
 ***
 - Modéliseation 3D, animation & développement en C# pour élaborer un serious game sous Unity.
