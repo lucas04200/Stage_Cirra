@@ -21,7 +21,8 @@ Voici une liste des technologies utilisées :
 * [Unity](https://unity.com/fr)
 * [Ubuntu](https://www.ubuntu-fr.org/)
 * [OpenREM](https://openrem.org/)
-* 
+* [Arduino](https://www.arduino.cc/)
+* [tunnel SSH](https://doc.ubuntu-fr.org/ssh#:~:text=SSH%20est%20un%20protocole%20permettant,machine%20distante%20(le%20serveur).)
 ## Crédit 
 ***
 Lucas dechavanne 
