@@ -13,6 +13,8 @@ Stage chez Cirra +
 - Développement en C++, modélisation d'un boitié en 3D, création d'un Système embarqué avec Arduino
 - Déploiement et configuration d'un docker.
 - Campagne de cybersécurité (fishing).
+- Automatisation d'un tunnel SSH.
+- Script de backup de server
 - Gestion de projet.
 ## Technologies
 ***
