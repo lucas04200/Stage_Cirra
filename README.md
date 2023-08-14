@@ -18,6 +18,9 @@ Stage chez Cirra +
 ***
 Voici une liste des technologies utilisées :
 [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
+[Unity](https://unity.com/fr)
+[Ubuntu](https://www.ubuntu-fr.org/)
+[OpenREM](https://openrem.org/)
 ## Crédit 
 ***
 Lucas dechavanne 
