@@ -9,25 +9,15 @@
 RPG en ligne de commande (Python)
 ## Objectifs
 ***
-- Objectif du projet : réaliser un RPG python utilisable que en ligne de commande. (programmation orientée objet)
-- Outils utilisés : création de différentes classes pour comprendre l'utilité de ces dernières.
-- Gestion des erreurs : chiffre, lettre, annulation...
-- Gestion des différents personnages avec différentes capacités.
+- Modéliseation 3D, animation & développement en C# pour élaborer un serious game sous Unity.
+- Développement en C++, modélisation d'un boitié en 3D, création d'un Système embarqué avec Arduino
+- Déploiement et configuration d'un docker.
+- Campagne de cybersécurité (fishing).
+- Gestion de projet.
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
 [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
-## Installation
-*** 
-- Téléchargez le dossier
-- Ouvrez le fichier GAME.PY
-- Excécutez-le 
-# Utilisation
-***
-- Utilisation du clavier seulement 
-## Attention
-***
-Gestion des erreurs donc vous ne pouvez pas faire ce que vous voulez 
 ## Crédit 
 ***
 Lucas dechavanne 
