@@ -1,13 +1,11 @@
 ## Table des matières
-1. [Informations générales](#informations_générales)
-2. [Objectifs du Stage](#Objectifs)
-3. [Technologies](#technologies)
-4. [Crédit](#crédit)
+1. [Informations](#informations)
+2. [Technologies](#technologies)
+3. [Crédit](#crédit)
 
-## Informations_Générales
+# Stage chez Cirra +
 ***
-Stage chez Cirra +
-## Objectifs
+## Informations
 ***
 - Modéliseation 3D, animation & développement en C# pour élaborer un serious game sous Unity.
 - Développement en C++, modélisation d'un boitié en 3D, création d'un Système embarqué avec Arduino
