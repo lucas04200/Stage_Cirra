@@ -6,7 +6,7 @@
 
 ## Informations_Générales
 ***
-Stage chez Cirra + 
+Stage chez Cirra +
 ## Objectifs
 ***
 - Modéliseation 3D, animation & développement en C# pour élaborer un serious game sous Unity.
