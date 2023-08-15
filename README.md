@@ -7,7 +7,7 @@
 ## Informations_Générales
 ***
 Stage chez Cirra +
-## Objectifs
+# Objectifs
 ***
 - Modéliseation 3D, animation & développement en C# pour élaborer un serious game sous Unity.
 - Développement en C++, modélisation d'un boitié en 3D, création d'un Système embarqué avec Arduino
